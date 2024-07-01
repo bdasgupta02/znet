@@ -7,7 +7,8 @@ A petri-net variation that emulates recursion through acyclic structures and def
 - Compile-time deadlock detection
 
 ## To-do 
-### Runtime
 - More testing
+- Fixing up DFS and perhaps exploring incidence matrix methods
 - Task-queue based multi-threaded execution
+- Fault tolerance centrality beyond betweenness
 - Perhaps a paper
